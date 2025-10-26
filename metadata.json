@@ -1,0 +1,5 @@
+{
+  "name": "FaunaPass Generator",
+  "description": "A visually appealing random password generator featuring beautiful animal backgrounds. Customize password length and character sets for strong, secure passwords.",
+  "requestFramePermissions": []
+}
